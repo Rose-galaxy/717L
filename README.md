@@ -418,10 +418,9 @@ static void displayTask(void *arg)
 ## 🛠️ 编译与烧录
 
 ### 开发环境
-- **IDE**：Keil MDK-ARM / STM32CubeIDE
+- **IDE**：Keil MDK-ARM / VS Code
 - **编译器**：ARMCC / GCC
-- **调试器**：ST-Link V2 / J-Link
-
+- **调试器**：ST-Link V2
 ### 编译步骤
 1. 打开工程文件（.uvprojx 或 .ioc）
 2. 确认包含所有源文件路径
